@@ -29,7 +29,7 @@
     "@actions/github": "^2.2.0"
   },
   "devDependencies": {
-    "@types/jest": "26.0.24",
+    "@types/jest": "29.5.14",
     "@typescript-eslint/eslint-plugin": "2.34.0",
     "@typescript-eslint/parser": "2.34.0",
     "@zeit/ncc": "0.22.3",
@@ -38,9 +38,9 @@
     "eslint-plugin-import": "2.31.0",
     "eslint-plugin-prettier": "3.4.1",
     "husky": "4.3.8",
-    "jest": "26.6.3",
+    "jest": "29.7.0",
     "prettier": "2.8.8",
-    "ts-jest": "25.5.1",
+    "ts-jest": "29.2.5",
     "typescript": "3.9.10"
   },
   "jest": {
